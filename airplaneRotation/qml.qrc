@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>obj/toyplane.obj</file>
+        <file>AirplaneScene.qml</file>
+        <file>icon/pitch180d.svg</file>
+        <file>icon/pitch270d.svg</file>
+        <file>icon/roll0d.svg</file>
+        <file>icon/roll270d.svg</file>
+        <file>icon/pitch90d.svg</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>icon/roll90d.svg</file>
+    </qresource>
+</RCC>
